@@ -10,7 +10,7 @@ Given both R and Python were used for the completion of this project, code for b
 * R/functions.R - this file contains two functions used to summarize counts  
   
 * Python/twitter_streaming_git.py - this file contains code similar to that used by Caroline to pull streaming Twitter data  
-* dataread.py - this file contains code used to format JSON data from Caroline into a pandas dataframe and import into R for analysis  
+* Python/dataread.py - this file contains code used to format JSON data from Caroline into a pandas dataframe and import into R for analysis  
 
 ## Contributors
 Rachel Blumhagen 
